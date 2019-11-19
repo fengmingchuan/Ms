@@ -5,5 +5,6 @@ public class user {
 		System.out.println("aaaaaaaaaaaa");
 		System.out.println("aaaaaaaaaaaa");
 		System.out.println("aaaaaaaaaaaa");
+		System.out.println("aaaaaaaaaaaa");//新添加
 	}
 }
