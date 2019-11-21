@@ -7,5 +7,6 @@ public class user {
 		System.out.println("aaaaaaaaaaaa");
 		System.out.println("aaaaaaaaaaaa");//新添加
 		System.out.println("aaaaaaaaaaaa");//二次添加
+	    ////你好吗？
 	}
 }
